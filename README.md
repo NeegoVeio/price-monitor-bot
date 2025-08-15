@@ -37,5 +37,3 @@ Perfect for deal hunters and anyone who doesn’t want to miss the chance to sav
 - **Scheduling:** Runs the collection every X amount of time (e.g., 1 hour) using something like `schedule` or a cron job.
 - **Comparison:** Checks if the price has decreased compared to the last saved value.
 - **Notification:** Sends an alert on Discord or Telegram.
-
-
